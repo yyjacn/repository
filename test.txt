@@ -1,4 +1,4 @@
 this is a test file
 this is second line
-this is third line
-the file has been changed
+
+trace the file's change (drop a line)
